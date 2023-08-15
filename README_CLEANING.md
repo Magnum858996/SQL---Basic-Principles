@@ -1,4 +1,4 @@
-#SQL---Data-Cleaning-in-SSMS
+SQL---Data-Cleaning-in-SSMS
 
 In my experience learning SQL for data analysis, I have used three different platforms: MySQL, BigQuery, and SQL Server Management Studio. This project uses code specific to the latter, as I wanted to distinguish it from the previous COVID-19 project in which I used BigQuery.
 
